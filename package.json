@@ -1,5 +1,6 @@
 {
 	"author": "Scyther Monky",
+	"description": "A project that does nothing",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
